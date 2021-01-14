@@ -21,5 +21,5 @@ An in-depth paragraph about your project and overview of use.
 code blocks for commands
 
 
-##Licence
+## Licence
 This **project** is licensed under the [Negar Sadreddini] License - see the LICENSE.md file for details.
