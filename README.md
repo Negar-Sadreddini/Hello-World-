@@ -1,2 +1,2 @@
 # Hello-World-
-This is for class CPSC 4800
+"My first repository on GitHub.”
